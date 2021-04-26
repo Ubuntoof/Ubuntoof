@@ -18,6 +18,7 @@ Below are technologies, frameworks, etc. I'm keeping an eye on.
 - GraphQL
 - Deno
 - WebAssembly
+- Flutter
 
 
 ## Contact
