@@ -12,7 +12,7 @@ I'm Ubundev, an aspiring programmer that hopes to find a developer community to 
 
 ## Topics of Interest
 Below are technologies, frameworks, etc. I'm keeping an eye on.
-- React
+- Svelte
 - NextJS
 - MongoDB
 - GraphQL
