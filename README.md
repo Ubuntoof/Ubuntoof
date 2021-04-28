@@ -1,5 +1,5 @@
 # Hello there!
-I'm Ubundev, an aspiring programmer that hopes to find a developer community to call home. If you have projects involving any of the languages I've listed below and think I might be a good fit, by all means, I'd be delighted to give it a shot.
+I'm Ubundev, an aspiring programmer that hopes to find a developer community to call home. If you have projects involving any of the languages I've listed below and think I might be a good fit, I'd be willing to give them a try.
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
