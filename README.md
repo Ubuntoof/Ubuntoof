@@ -22,7 +22,7 @@ Below are technologies, frameworks, etc. I'm keeping an eye on.
 
 
 ## Contact
-Send an email to [ubundev@pm.me] if you'd like to have a conversation!
+Send an email to ubundev@pm.me if you'd like to have a conversation!
 
 <br />
 <hr />
