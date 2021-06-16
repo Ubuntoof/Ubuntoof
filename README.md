@@ -22,11 +22,9 @@ Below are technologies, frameworks, etc. I'm keeping an eye on.
 
 
 ## Contact
-At this point in time, I am only available on GitHub. This may change later down the road, but for now, I'm omitting socials for the sake of privacy. 
+Send an email to [ubundev@pm.me] if you'd like to have a conversation!
 
 <br />
 <hr />
-
-> Of course, I am still *learning* the languages listed above, but I find myself to have enough familiarity with their syntax to start making my own projects with them. I will have a portfolio available eventually.
 
 > This `README.md` file will likely change in the future, as time becomes more available.
