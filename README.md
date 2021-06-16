@@ -12,14 +12,14 @@ I'm Ubundev, an aspiring programmer that hopes to find a developer community to 
 
 ## Topics of Interest
 Below are technologies, frameworks, etc. I'm keeping an eye on.
-- Svelte
-- NextJS
+- Svelte/Sapper
+- React/NextJS
 - MongoDB
 - GraphQL
 - Deno
 - WebAssembly
 - Flutter
-
+- Yew
 
 ## Contact
 Send an email to ubundev@pm.me if you'd like to have a conversation!
